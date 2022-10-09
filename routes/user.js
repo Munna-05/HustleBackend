@@ -5,7 +5,9 @@ import controller from '../controllers/users.js'
 
 
 
-router.post('/user',controller.register)
+router.post('/user',(req,res)=>{
+    console.log('hai user')
+})
 
 
 export default router;

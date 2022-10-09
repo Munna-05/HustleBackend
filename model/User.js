@@ -7,7 +7,22 @@ const UserSchema = mongoose.Schema({
     email:{
         type:String
     },
+    upi:{
+        type:String
+    },
+    country:{
+        type:String
+    },
+    state:{
+        type:String
+    },
     password:{
+        type:String
+    },
+    about:{
+        type:String
+    },
+    profilePic:{
         type:String
     }
 })

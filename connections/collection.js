@@ -1,5 +1,5 @@
 module.exports={
     USER_COLLECTION:'users',
-    CHANNEL_DETAILS:'channelDetails'
-
+    CHANNEL_DETAILS:'channelDetails' 
+ 
 } 

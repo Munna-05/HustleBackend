@@ -7,4 +7,4 @@ export default {
         console.log(req.body)
         res.send('hello ')
     }
-}
+} 
